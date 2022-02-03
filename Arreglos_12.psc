@@ -7,6 +7,7 @@
 Algoritmo Arreglos_12
 	definir i, j,tamano Como Entero
 	definir matriz,palabra Como Caracter
+	definir x Como Real
 	Dimension matriz(3,3)
 	i=0
 	j=0
